@@ -1,5 +1,7 @@
 # Pillager Web Scraper
 
+A library of code snippets for casual web scraping. Built by an open source community.
+
 <img width="1440" alt="pillager-website-preview" src="https://github.com/0xterran/pillager-web-scraper/assets/96885027/82903c22-778b-4666-add0-ab000e0ad97d">
 
 ## What is Pillager?
